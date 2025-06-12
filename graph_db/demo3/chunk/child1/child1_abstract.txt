@@ -1,0 +1,14 @@
+. Industry 4.0 connotes a new industrial revolution centered around cyber-physical
+systems. It posits that the real-time connection of physical and digital systems, along with
+new enabling technologies, will change the way that work is done and therefore, how work
+should be managed. It has the potential to break, or at least change, the traditional operations
+trade-offs among the competitive priorities of cost, ﬂexibility, speed, and quality. This article
+describes the technologies inherent in Industry 4.0 and the opportunities and challenges
+for research in this area. The focus is on goods- producing industries, which includes both
+the manufacturing and agricultural sectors. Speci ﬁc technologies discussed include
+additive manufacturing, the internet of things, blockchain, advanced robotics, and ar-
+tiﬁcial intelligence.
+History: This paper has been accepted for the Manufacturing & Service Operations Management 20th
+Anniversary Special Issue.
+Keywords: additive manufacturing internet of things blockchain robotics artiﬁcial intelligence
+1.
