@@ -1,0 +1,64 @@
+1. INTRODUCTION  
+Maintenance, Repair, and Operations (MRO) items are parts 
+that support the production operations but are not included in 
+the finished product. MRO parts include consumables (e.g. 
+gloves, goggles, and office supplies), asset maintenance 
+supplies (e.g. grease, belts, and filters), and spare  parts (e.g. 
+motors, valves, pumps, and cables). Although in some enterprises, the value of MRO parts is substantial, MRO 
+inventory management did not gain as much attention as 
+production or service  parts inventory (Bacchetti, et  al. 2012). 
+In many cases, all MRO parts are treated with the same 
+solution  across the board des pite individual differences . Basic  
+replenishment policies such as ( Q,R) and ( s,S) are common for 
+MRO parts inventory management.  
+Sporadic demand and irregular lead -time are two major 
+challenges in MRO parts inventory. Unlike production parts, 
+which  have  relatively consistent usage, MRO parts are 
+notorious for demand fluctuation. Many MRO parts are made -
+to-order  parts  with relatively long and inconsistent lead -times, 
+especially for aged eq uipment. As a result, manufacturers 
+usually carry substantial buffers of spare and maintenance 
+inventory to protect against downtime due to part 
+unavailability.  This approach usually results in obsolescence . 
+Emerging manufacturing and information technolo gies, 
+dubbed Industry 4.0 technologies, provide opportunities to significantly improve MRO inventory management. 
+Specifically:  
+- Big data analytics, Machine learning (ML) , and 
+Internet of Things (IoT) enable  real-time prognostics 
+of the manufacturing equipme nt where failure of 
+parts can be predicted in time to have a maintenance 
+work  order  scheduled and the necessary materials and 
+replacement parts delivered.  - Additive manufacturing (aka 3D Printing) can be 
+adopted to make the lead -time shorter and more 
+predic table for parts with long and irregular lead -
+times. 
+- Logistics 4.0 and new smart mobility models allow 
+building efficient transportation networks to share 
+MRO parts between plants and/or centralized MRO 
+warehouses.  
+Different types of MRO parts may benefit f rom different 
+Industry 4.0 technologies, while some MRO parts inventory 
+should follow existing inventory control practices. For 
+example, the throughput and cost of additive manufacturing is 
+still not competitive for standard parts manufactured using 
+tradit ional mass -production processes and the part with stable 
+short lead -time are still more economical to procure through 
+traditional channels. For MRO parts with stable  and high usage 
+pattern s the existing time series forecasting techniques are 
+adequate . The  benefits of Big Data Analytics and IoT 
+technologies will not justify the implementation effort.  
+The detailed trade -off analysis is required for each individual 
+MRO part to investigate applicability and benefits of 
+implementation of Industry 4.0 technologi es. For companies 
+with hundreds of thousands of MRO parts , this analysis may 
+be a very daunting task. In this work , we proposed clustering  
+MRO parts into groups associated with different strategies to 
+leverage Industry 4.0 technologies to increase the efficiency of 
+inventory management.  
+The paper is organized as follows. Section 2 discusses the 
+critical characteristics of MRO parts and their effect s on 
+inventory management efficiency. Section 3 presents MRO 
+parts clustering technique. Section 4 discusses the 
+implementation strategies of lever aging Industry 4.0
+technologies for different MRO part classes identified in
+Section 3. Section 5 concludes the paper. 
