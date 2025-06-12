@@ -1,0 +1,60 @@
+1. Introduction
+Additive Manufacturing (AM) is defined as “the process of
+joining materials to make objects from 3D model data, usually
+layer upon layer, as opposed to subtractive manufacturing methodologies,
+such as traditional machining” (ASTM Standard). Synonyms
+found in the literature include additive processes, additive
+techniques, additive layer manufacturing, layered manufacturing,
+and freeform fabrication. There is now a large number of technologies
+which employ this method of manufacture, some of the
+more widely used include stereolithography (SL), fused deposition
+modelling (FDM), selective laser sintering (SLS) and 3D printing
+(3DP). Since the development of many of these technologies has
+occurred simultaneously, there are various similarities as well as
+distinct differences between each one (Kulkarni et al., 2000).
+Reviews of the numerous AM technologies have been performed
+in previous works (Gibson et al., 2010; Groover, 2007; Hopkinson
+et al., 2006).
+With over 20 years of history, in its early years AM was mostly
+applied for the fabrication of conceptual and functional prototypes,
+also known as Rapid Prototyping (RP). These prototypes were most
+commonly used as communication and inspection tools, producing
+several physical models in short time directly from computer solid
+models helped to shorten the production development steps
+(Santos et al., 2006). RP remains the dominant application of
+polymer AM processes and is well established in the market. Many
+of the aforementioned technologies are limited to Rapid Prototyping
+as they do not allow common engineering materials to be
+processed with sufficient mechanical properties (polymers, metals,
+ceramics, and composites thereof) (Kruth et al., 2007). The concept
+of Rapid Manufacturing (RM) – “the production of end-use parts
+from additive manufacturing systems” (Hague et al., 2004) – is
+emerging today; though its economic impact remains modest (Levy
+et al., 2003). There are few-large scale applications of RM, many of
+which are for producing personalised products in the medical field
+(Strategic Directions, 2008). Ruffo et al. (2007) provided a summary
+of the pitfalls which exist for companies looking at the use of RM as
+a solution for current manufacturing problems or wishing to take
+advantage of this emergent technology, suggesting they are concentrated
+in three specific areas:
+ manufacturing processes and materials,
+ design,
+ management, organisation and implementation.
+These issues are inter-related and this study centres on the
+third of these areas, specifically focusing implementation of AM
+technologies for production applications. It is inevitable that some
+of the factors critical to the implementation of AM technologies
+are also important to the adoption of other manufacturing technologies.
+However, it is not the aim of this study to rediscover
+these issues, rather this paper seeks to build on this, adding
+insights into factors that are specific, or of particular importance
+to AM technologies due to their unique characteristics, resource
+requirements, benefits and tradeoffs and so on. The remainder of
+the paper is organised as follows. In the next section, a short
+overview of AM technology and applications is presented along
+with an introduction technology implementation theory. Then the
+research framework is presented with a detailed description of the
+constructs and supporting literature. The data collection process is
+then described and the results of the framework test are described.
+Finally, the paper closes with conclusions, limitations of the study
+and suggestions for future research.

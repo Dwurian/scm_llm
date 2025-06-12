@@ -1,0 +1,16 @@
+As mass production has migrated to developing countri es, European and US companies are forced to rapidly
+switch towards low volume production of more innovati ve, customised and sustainable products with high
+added value. To compete in this turbulent environment, manufacturers have sought new fabrication
+techniques to provide the necessary tools to support the need for increased ﬂexibility and enable economic
+low volume production. One such emerging technique is Additive Manufacturing (AM). AM is a method of
+manufacture which involves the joining of materials, usually layer-upon-layer, to create objects from 3Dmodel data. The bene ﬁts of this methodology include new design freedom, removal of tooling requirements,
+and economic low volumes. AM consists of various tec hnologies to process versatile materials, and for many
+years its dominant application has been the manufacture of prototypes, or Rapid Prototyping. However, therecent growth in applications for direct part manufacture, or Rapid Manufacturing, has resulted in much
+research effort focusing on development of new processes and materials. This study focuses on the
+implementation process of AM and is motivated by the lack of socio-technical studies in this area.It addresses the need for existing and potential future AM project managers to have an implementation
+framework to guide their efforts in adopting this new and potentially disruptive technology class to produce
+high value products and generate new business opportu nities. Based on a review of prior works and through
+qualitative case study analysis, we construct and test a normative structural model of implementation factors
+related to AM technology, supply chain, organisation, operations and strategy.
+&2013 Elsevier B.V. All rights reserved.
+1.

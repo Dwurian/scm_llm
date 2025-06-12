@@ -1,0 +1,43 @@
+6. Conclusions and future work
+The case company has shown to provide support for the
+research framework, its constructs and provided insights into the
+relationships between the variables. During the analysis stage care
+was taken to identify the reasons for the factors identified; to
+identify those that may be common characteristic to AM implementation
+in a certain environment and therefore a source of a
+potentially more generic solution (improving external validity).
+Some of the management and implementation challenges for the
+RP convertor have been discussed along with potential solutions
+and opportunities. It is important to acknowledge the nature of
+the case study presented in this paper and the specific scenario
+under study. The scenario investigated in this paper is that of a
+company coming from a background in prototyping and implementing
+AM as a new manufacturing process for production of
+new products. It is expected that the influence and importance of
+the framework factors will be determined by the scenario under
+study. For example case, the challenge of changing an RP culture
+and building a reputation as a production company are likely to be
+less influential in a company coming from a background in
+traditional machining and established in an aerospace supply
+chain. In such a case, the challenges with understanding new
+design for additive manufacture constraints and changing a traditional
+production culture would likely have greater influence on
+implementation success. Therefore, future work may look to
+compare the approaches in these different scenarios, and potentially
+map these approaches using the factors presented in this
+framework.
+Limitations of the study include the fact that the framework
+was tested using a single case study. Yin (2003) suggests singlecase
+designs may be viewed as vulnerable and Voss et al. (2002)
+also advise that single case research limits the generalisability of
+the conclusions, models and theory developed. Although these
+risks exist in multi-case research they are somewhat mitigated and
+therefore to improve the generalisability of the framework future
+work may be focused on further case studies of AM implementation
+in different organisational contexts and supply chain scenarios.
+As the number of implementers increases the variety of cases
+will be open to researchers. Though there is unlikely to be one
+correct approach to implementing AM processes, this study has
+provided an insight into the challenges with AM implementation
+and has proposed a framework to assist managers in implementing
+this potentially disruptive technology class.

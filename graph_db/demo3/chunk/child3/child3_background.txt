@@ -1,0 +1,106 @@
+2. Background
+2.1. AM technologies and applications
+As previously stated the numerous AM systems share some
+similarities but have a number of distinctions. The first AM system
+to be commercialised was SL, whereby a concentrated beam of
+ultraviolet lamp is used to solidify a liquid photopolymer by
+tracing a two dimensional (2D) layer in the form of a contour
+and then an infill. Once the beam has completed a single layer the
+build platform will then move downward in the z-axis, a new layer
+of photopolymer is distributed and the process is repeated until
+the final layer is completed. Laser sintering and laser melting
+processes work in a similar manner, whereby polymer or metallic
+powders are selectively melted in 2D layers, through high power
+lasers until a solid part is complete. Another popular process,
+particularly with hobbyists, is the FDM process. In this method,
+materials, usually polymer filaments are extruded through a
+heated nozzle to “print” 2D layers successively, one on-top of
+another, until the part is complete. Whether through melting of
+metallic powders or through extrusion of polymer filaments,
+all AM process share the additive principle of building components.
+It is possible to identify a number of key steps in the AM
+process sequence. Gibson et al. (2010) defines eight key steps in
+the generic process of CAD to part:
+ Conceptualization and CAD
+ Conversion to STL
+ Transfer and manipulation of STL file on AM machine
+ Machine setup
+ Build
+ Part removal and cleanup
+ Post-processing of part
+ Application
+Holmström et al. (2010) suggest the unique characteristics of
+AM production lead to the following benefits:
+ No tooling is needed significantly reducing production rampup
+time and expense.
+ Small production batches are feasible and economical.
+ Possibility to quickly change design.
+ Allows product to be optimised for function (for example
+optimised cooling channels).
+ Allows economical custom products (batch of one).
+ Possibility to reduce waste.
+ Potential for simpler supply chains; shorter lead times, lower
+inventories.
+ Design customization.
+These benefits have been captured in a variety of applications
+spanning a number of industries, and different stages of the
+product development life cycle. Examples include titanium aerospace
+parts where only 10% of the raw material is required when
+compared to the original machined part (The Economist, 2012).
+Atzeni and Salmi (2012) showed the economics of additive
+manufacturing for end-use parts through comparing the production
+of landing gear aircraft assemblies, through high pressure die
+casting (HPDC) and laser sintering. The authors showed the cost
+benefit at low to medium production volumes, illustrated in the
+breakeven analysis shown in Fig. 1. The benefits of AM have been
+captured in the production of race car gearboxes (The Economist,
+2012). AM facilitates the manufacture of smooth internal path
+ways, providing faster gear changes and reducing component
+weight by 30%. Similarly, Cooper et al. (2012) illustrate the
+potential for improved functionality in their study on formula
+one technology, applying AM to hydraulic component manufacture
+gaining efficiency of fluid flow of 250%.
+As previously stated the current dominant application for AM
+processes remains RP. Rapid Tooling (RT) also makes up some of
+the current AM activity which involves the fabrication of moulds
+and dies. Regarding manufacturing applications of AM processes
+(RM), notable areas of success include the production of medical
+devices such as dental crowns and hearing aids, driven by
+customer requirements for individualised products and AM processes
+having the benefit of design customization. RM has also
+been applied to the production of consumer products, including
+high value lighting goods and electronics. The aerospace sector has
+also found a number of applications, often driven by the possibility
+of improving buy-to-fly ratios (as some AM processes have high
+material utilisation, most notable metal-based process) and reducing
+the weight of components through design optimisation
+(Petrovic et al., 2011). Other areas include, automotive, jewellery,
+architecture and defence applications.
+2.2. New technology implementation: theoretical background
+Skinner (1984) was one of the first to propose that innovation
+in production technology can be used strategically as a powerful
+competitive weapon, suggesting that it can bring to bear many
+other strategic factors besides achieving low costs including,
+superior quality, shorter delivery cycles, lower inventories, lower
+investments in equipment, shorter new product development
+cycles and new production economics. In Porters (1985) influential
+work on competitive strategy he suggested technology is perhaps
+the most important single source of major market share changes
+among competitors and is the prominent cause of the demise of an
+entrenched dominant firm.
+Voss (1988) provided seminal work on proposing implementation
+as a distinctive area of study of process innovations. The focus
+on AMT implementation in 1990s was a direct result of many
+systems failing to meet their initial promise, with project managers
+unhappy with the system performance. In more recent years,
+the advent of ERP systems and RFID technology has generated a
+plethora of research articles on implementation as academics have
+sort to create process models and frameworks to assist managers
+in implementing new innovations successfully. Though AM as a
+manufacturing technology remains in comparatively low levels of
+exploitation, with AM production representing only a very small
+percentage of global manufacturing, some authors suggest the
+breakthrough is eminent. In order to take a pro-active approach to
+research we focus on developing an implementation framework
+based on current innovators in this area in order to facilitate this
+breakthrough.
