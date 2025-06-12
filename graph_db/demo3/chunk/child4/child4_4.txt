@@ -1,0 +1,7 @@
+AM’s blockchain applications 
+
+While blockchain technologies aren’t yet commonly-used within the 3D printing industry, they have often been experimented with during pilot defense projects. Back in August 2019, the US Air Force worked with SIMBA Chain to develop a secure, unhackable transaction platform that’s capable of tracking 3D printed parts throughout their entire lifecycle. 
+
+Likewise, the US Navy has previously deployed blockchain to control its 3D printers, with the aim of gaining end-to-end control over its additive manufacturing processes. The proof-of-concept project was also launched as a means of beefing up the cybersecurity of naval 3D printed parts, which are increasingly finding end-use among deployed forces. 
+
+GE Research has also invested extensively in developing a secure 3D printing blockchain network of its own. Known as the ‘Forge Lab,’ its system is said to encrypt data to such an extent that it’s able to withstand attacks by quantum computers, protecting additive manufacturing transactions right through from powder supply to the finished product. 

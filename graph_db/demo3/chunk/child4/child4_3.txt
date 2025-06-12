@@ -1,0 +1,11 @@
+CADChain’s BORIS solution 
+
+To help provide designers with peace of mind when sharing their CAD designs, CADChain has launched BORIS, an add-on that offers end-to-end data tracking capabilities. Working in tandem with existing CAD software, the plug-in monitors designs via a blockchain protocol that’s protected by state-of-the-art encryption, which is unique in that it shields data without needing to access any models itself. 
+
+To achieve this, the software creates a digital twin of users’ designs, and tracks any changes to it via a decentralized blockchain that’s said to be ‘immutable,’ hence any alterations can’t be reversed. Everything that happens on the BORIS chain is also linked directly to the IP owner, and the plug-in boasts a range of licensing tools that enable adopters to automate elements of their design sharing process. 
+
+For instance, CADChain’s plug-in includes integrated digital legal contracting, which allows users to securely sign digital smart contracts directly via their design software, as well as wrap up other agreements such as NDAs, or even sell exclusive annual licenses to their products, to ensure that they cannot be used elsewhere. 
+
+To help get it off the ground, BORIS has gained the support of blockchain backers Block.IS, and Europechain, in addition to the Limburg Technology Investment Fund (LTIF), and CADChain is now reported to have launched a beta testing program for its software, which is said to be focused on securing the transfer of files via Autodesk’s Inventor program. 
+
+Those interested in finding out more about BORIS or getting involved in the beta can reach out directly to CADChain via its dedicated website here. 

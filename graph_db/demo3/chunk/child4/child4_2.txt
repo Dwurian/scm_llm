@@ -1,0 +1,7 @@
+Locking down with blockchains
+
+For all intents and purposes, blockchains are ‘digital ledgers’ that securely track information regarding business transactions or assets, and simultaneously notify participants of any changes. When completed using blockchains, any such movements leave an immutable cryptographic ‘hash’ signature, meaning that if any ‘block’ in a ‘chain’ of moves is hacked, it would be quickly obvious to all users. 
+
+CADChain has now integrated this technology into a new software add-on that is built to plug a potential hole it has identified in the defense of designers’ IP. During product R&D, the firm recognizes that it’s normal for designs to be shared across multiple parties, but it says the “unprecedented rate” at which unprotected files are being exchanged, is creating “a perfect storm” that’s ripe for hacking. 
+
+According to the company, storing valuable CAD design data within a ‘digital vault’ is not a viable solution to this, as it doesn’t provide firms with 100% protection or any control over their data once shared, while the often-used non-disclosure agreement (NDA) often fails to cover everyone who gains access to files, such as subsidiaries and subcontractors. 
