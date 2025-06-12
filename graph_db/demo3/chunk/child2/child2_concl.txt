@@ -1,0 +1,26 @@
+5. CONCLUSIONS
+The paper focuses on the challenges of MRO parts inventory
+management and growing interest in Industry 4.0 technologies
+to improve its efficiency. The emerging area of prognostics
+leveraging Big Data Analytics, ML and IoT can improve the
+forecast of maintenance cycles and spare parts demand.
+Additive manufacturing can help to stabilize and reduce leadtime
+to procure low usage items. Logistics 4.0 and New Smart
+Mobility models provide an efficient transportation network to
+support centralization of MRO parts that benefit from demand
+variability pooling and consolidation of inventory
+management and procurement activities.
+In many industrial settings today, all MRO parts are treated
+using the same inventory management approach. Using real
+world data from the automotive industry we have
+demonstrated differences in MRO parts usage patterns, lead
+times, and cost and impacts of these parameters on the
+efficiency of inventory management. These different attributes
+call for the different approaches to improve inventory
+efficiency.
+We proposed a classification of the MRO parts and associated
+strategies to address inventory management solutions from the
+perspective of Industry 4.0 technologies. We also proposed a
+clustering technique that automatically classifies all the MRO
+parts into appropriate groups to focus the consideration of the
+appropriate technology innovation.

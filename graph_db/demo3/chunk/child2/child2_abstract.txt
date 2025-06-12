@@ -1,0 +1,12 @@
+:  This paper discusses  the challenges in Maintenance, R epair , and O peration s (MRO)  parts 
+inventory management and how Industry 4.0 technologies can be leveraged to address them . Additive 
+manufacturing, I nternet of Things (IoT),  big data analytics, machine learning , and new smart mobility 
+logist ics models  are emerging technologies that enable efficient  inventory solutions for different types of 
+MRO parts . There is no single universal strategy  that work s for all MRO parts due to wide variety of part 
+attributes including usage pattern s, lead -time, and cost . In this paper , we propose the clustering of MRO 
+parts into different groups  and discuss the potential strategy to improve inventory management efficiency 
+by leveraging emerging technologies  for each MRO part group . 
+Keywords:  Inventory Control, Maintenance Repair & Operations Inventory, Clustering, Additive 
+Manufacturing, Internet of T hings , Predictive Modeling  
+
+1.
