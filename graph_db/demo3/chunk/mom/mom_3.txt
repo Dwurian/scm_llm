@@ -1,0 +1,34 @@
+1.1.2. 3D Printing as a Solution. 3D printing may help
+alleviate the aforementioned challenges, although it
+does require OEMs to provide design files. In this
+regard, the manufacturing industry should learn from
+the experiences of the copyright industry. Rather than
+mimicking its futile attempts to curb digital distribution,
+OEMs should consider embracing 3D printing by
+providing buyers the convenience to print parts for
+their own use (Desai and Magliocca 2014). This
+becomes feasible with the emergence of 3D printing
+platform services, for example, Dassault Syst`emes,
+SAP, Siemens (SCM World 2018), Digital Parts Transfer
+(Digital Parts Transfer 2020), and Fieldmade Digital
+Inventory (Fieldmade 2020). This trend is also supported
+by a survey of 38 German industrial companies
+by Geissbauer et al. (2017), who find that 85% of spare
+parts suppliers believe to incorporate 3D printing into
+their business in five years. Indeed, there are already
+companies printing spare parts, such as Deutsche Bahn
+(Zasiadko 2019), Wilhelmsen (Supercharge3d 2019),
+and military organizations (Wibu-Systems 2019).
+Such transitions require the development of a supporting
+infrastructure for uniform 3D CAD model
+database management, software development, printing
+service provider (PSP) audits, guaranteed repeatability
+of prints, and so on (Mellor et al. 2014, Chekurov
+et al. 2018). To prevent IP infringement and sort out
+liability issues, transparency of network transactions
+can be guaranteed through blockchain ledgers (Sertoglu
+2021a). Another solution may be to trust PSPs and
+other third parties, such as UPS, SAP, and Siemens, with
+the design files. Companies such as Wibu-Systems
+(Wibu-Systems 2019) offer technical solutions that can
+also help prevent IP infringement.

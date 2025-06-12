@@ -1,0 +1,73 @@
+1.1.1. Challenges with Spare Parts. Among the entities
+that will be greatly affected by digitization and the
+rise of 3D printing are original equipment manufacturers
+(OEMs) that sell advanced capital goods (such
+as heavy construction equipment, military equipment,
+trains, aircrafts, and elevators) or durable consumer
+goods (such as automobiles and home appliances).
+These manufacturers need to provide spare parts to
+their business buyers over the course of the equipment
+lifetime. The business buyers include the users of capital
+goods (such as construction, train, and airline companies),
+retailers of durable consumer goods (such as
+auto dealers), or appliance service companies and part
+distributors, who have geographically dispersed operations
+and stock spare parts locally to ensure high system
+uptime or off-the-shelf availability.
+Providing high level after-sales service throughout
+the life cycle of product ownership has proven to be
+an important competitive strategy in promoting customer
+loyalty (Cohen et al. 2000). Selling spare parts is
+typically a very profitable business, with global
+annual sales in 2015 of more than 400 billion U.S. dollars
+in the automotive industry alone (Breitschwerdt
+et al. 2017); this is mostly so for parts with relatively
+high margins and volumes. When the price is market
+driven or the demand for a part later in its life cycle
+has gone down, supplying spare parts is far less
+attractive (Ambadipudi et al. 2017); this inevitably
+happens to most parts at some point in their life
+cycles. For such parts, although OEMs’ production
+and sales have typically reached a mature status, their
+willingness to carry out regular production runs is
+low: producing them complicates OEMs’ schedules
+and distracts from the more profitable activities. At
+the same time, maintaining inventories of these parts
+is expensive. For these reasons, OEMs may decide to
+stop offering these parts altogether (Geissbauer et al.
+2017). In any case, OEMs have no incentive to hold
+inventory for them.
+If a buyer still needs these parts, it may be possible
+to acquire them at high costs. According to a manager
+in the airline industry (private communication via
+email on February 24, 2021), an OEM in such case typically
+chooses from three options: (i) specify a minimum
+order quantity (MOQ), so that the cost per part
+is not too high while setup costs are covered; (ii) offer
+so-called price breaks so that setup costs are always
+covered while no MOQ is specified, for example, buy
+1 part at a high unit price or 10 parts at a low unit
+price; and (iii) specify separately the setup and variable
+costs. In all cases, the setup costs are covered by
+the buyer. This is also confirmed by a case study of a
+material handling equipment manufacturer: “Now,
+the supplier lets the machine run for 10 min, and then,
+you have to take 100” (Heinen and Hoberg 2019,
+p. 812). The setup costs imposed by traditional manufacturing,
+such as injection molding, are typically very
+high. This, combined with the long order lead times
+(resulting from the OEM’s lack of inventory and low
+priority to start a production run) leads to high inventory
+holding by the buyers (Chen et al. 2019). Given
+that a buyer typically needs to stock many different
+parts (think of 300,000 different types; Ambadipudi
+et al. 2017), this means a significant inventory investment,
+especially when accounting for high scrapping
+rates (Cattani and Souza 2003, Heinen and Hoberg
+2019). Consequently, buyers are tempted by alternative
+sources with shorter lead times. Because of the
+lack of original designs, parts procured from those
+sources can be inferior in functionality and hamper
+the remaining lifetime of equipment. All in all, the
+OEM and its aftermarket value will be affected negatively
+(Ambadipudi et al. 2017).

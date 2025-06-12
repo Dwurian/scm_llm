@@ -1,0 +1,41 @@
+1.1.3. IP Licensing as a Facilitator. At the core of any
+type of solution is the digital file, which enables a
+buyer to locally print parts. Selling designs rather
+than physical parts creates a cost saving potential,
+printing locally shortens order lead times and slashes
+set up costs of production runs, from which both
+OEMs and buyers may benefit. It allows buyers to
+enjoy the originally designed parts with less required
+inventory, and at the same time it enables OEMs to
+focus their traditional manufacturing lines on high
+margin and high-volume products. Conversely, it
+does require OEMs to relinquish some of the existing
+revenue stream from the physical production and distribution
+of parts. Therefore, to motivate OEMs to
+embrace the digital transition, a mechanism must be
+in place through which OEMs can continue to profit.
+To this end, we propose that OEMs act as IP licensors,
+which is a well-established method in many
+industries for marketing and protecting a firm’s innovation,
+such as the telecommunication industry.
+Drawing from the literature and practice of IP protection,
+we adopt a commonly used license featuring a
+fixed licensing fee (e.g., paid annually), and a per unit
+royalty fee. This license form is similar to the patent
+fee proposed by Ivan and Yin (2017) in their case
+study in the automotive industry. We study how to
+optimally design the license terms to maximize an
+OEM’s total profit across both the physical and digital
+channels and how effective the license form is in reaping
+the digitization benefit. Such licensing becomes
+possible with the recent advancements that allow the
+auto-licensing of CAD designs and traceable 3D
+printed parts (Hanaphy 2021, Sertoglu 2021b). Organizations
+are indeed looking into this possibility, for
+example, a U.S. Army directive states: “When negotiating
+with industry for license rights to IP, consider
+alternative license models that benefit both the Government
+and industry, such as a fee-based agreement
+under which a negotiated price is paid to the entity
+that created the IP each time a part is 3D-printed”
+(U.S. Department of Defense 2018, Everett 2020).
