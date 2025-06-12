@@ -1,0 +1,39 @@
+Digitization enabled by the invention of the Internet
+has substantially transformed many major industries.
+Among the most disrupted are industries where copyright
+protected material is the central value of the
+product, resulting in digital distribution of products,
+such as books, music, and movies. For instance, CD
+album sales in the United States have dropped from
+943 million copies in 2000 to just 47 million in 2019
+(Statistica.com 2020), and Blockbuster at one point featured
+more than 9,000 stores but was down to a single
+store in 2018 (Business Insider 2018). At the same
+time, we see the rise of new household names, such as
+Spotify, Netflix, and Amazon, the latter of which originally
+started out as an online bookstore.
+Similar changes occur in the manufacturing industry.
+We observe the industrial revolution toward
+Industry 4.0, where three-dimensional (3D) printing,
+artificial intelligence and the Internet of things are
+digitizing production, replacing physical inventory by
+digital inventory, and enabling a switch from centralized
+mass-manufacturing to distributed, customized,
+small series production (Forbes.com 2017, Yin et al.
+2018, Olsen and Tomlin 2020, Sertoglu 2021a). In this
+paper, we focus on the disruption caused by 3D printing.
+This technology, more formally known as additive
+manufacturing (AM), makes small quantity production
+economically feasible since it requires little
+tooling and features very low setup costs compared
+with traditional manufacturing such as injection
+molding or die casting. Some believe that AM will
+reverse globalization, with the long supply chains of
+large multinational companies being replaced by, or
+evolving into, local 3D printing networks (Ben-Ner
+and Siemsen 2017). AM may further give rise to
+so-called pan-industrialists: giant industrial networks
+or platform services, built around an AM core, linking
+and coordinating hundreds of business processes
+from a multitude of industries with unprecedented
+efficiency (D’Aveni 2018).
