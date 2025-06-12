@@ -1,0 +1,5 @@
+Dutch software start-up CADChain has launched a new security tool that allows designers to closely track their CAD data during product development as a means of better protecting their Intellectual Property (IP). 
+
+Known as ‘BORIS,’ the new plug-in is designed to provide users with a way of securely monitoring digital assets as they change hands, via blockchains on which data cannot be subversively retrieved. When used alongside Autodesk’s Inventor CAD software, the firm says its security tool is capable of auto-licensing designs while tracking all interactions, to “democratize intellectual asset protection.”
+
+“CADChain provides a game-changing solution needed by today’s designers,” says CADChain Senior Advisor Claudio Cocorocchia. “It mitigates real risks caused by the shortened and rapid product development cycles of today’s digital economy, where sensitive data is constantly being shared. The solution makes CAD files more secure, easier to control, share and in the future, license.”
