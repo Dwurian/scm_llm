@@ -75,11 +75,11 @@ Notably, distillation can happen before or after fine-tuning, with each option h
 ## Summary of Progress
 
 1. **Retrieval Augmented Generation**
-  - **Naive RAG** (Prototype done)
-  - **Graph RAG** (Prototype mostly done)
-    * **Graph Retriever** (Prototype done)
-    * **Graph Embedder** (Prototpe partially done)
-  - **Agentic RAG** (Ideation)
+    - **Naive RAG** (Prototype done)
+    - **Graph RAG** (Prototype mostly done)
+      * **Graph Retriever** (Prototype done)
+      * **Graph Embedder** (Prototpe partially done)
+    - **Agentic RAG** (Ideation)
 2. **Fine-Tuning** (Ideation)
 3. **Distillation** (Ideation)
 
