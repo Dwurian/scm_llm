@@ -17,7 +17,7 @@ In our project, we study three forms of retrievers: Naive RAG, Graph RAG, and Ag
 
 The Naive Retriever works by finding the most similar text to the prompt from the database, and feeding them alongside the prompt to the language model as context. Here, the vector embeddings (the dense vectors representing the original text) of the text chunks in the database are compared with the vector embedding of the prompt in a process called similarity search. In similarity search, relevancy is determined by purely mathematical operations, such as minimum Euclidean distance, on the vector embeddings. A pipeline can be seen in the figure below: 
 
-[figure here]
+![Pipeline for Naive Retriever](media/naive_pipeline.png)
 
 A Naive Retriever is the simplest way of enjoying the benefits of RAG. However, because of the simple structure, it is incapable of multihop reasoning or providing extra functionality to the language model. Also, since its underlying mechanisms are mathematical, its ability to produce the most relevant information cannot be improved without changing the text embedding model. 
 
@@ -32,7 +32,7 @@ The Graph Retriever uses graphs' ability of representing relationships to improv
 
 As of June 20, 2025, we focus on the second case, where Graph Retriever replaces the Naive Retriever for text retrieval. This enables multi-hop reasoning by enriching our first level context with secondary context that expand on their ideas. An example can be seen below: 
 
-[figure here]
+![Demo for Graph Retriever](media/graph_demo.png)
 
 Here, the Mom article is a journal paper by Zhang et al ([2022](https://doi.org/10.1287/msom.2022.1117)) about 3D printing's impact on spare part logistics. In a subsection of introduction, Hanaphy's ([2021](https://3dprintingindustry.com/news/cadchains-new-boris-plug-in-protects-users-designs-during-product-rd-197876/)) blogpost is referenced as an example of IP licensing technology necessary for using the 3D printing in spare part production. By tracing this citation relationship in the graph, the relevant text in the blogpost is retrieved and new information, such as the company's name, the product's name, and the underlying blockchain technology, is retrieved, even though the original text in the blogpost does not directly resemble the prompt. 
 
@@ -40,9 +40,9 @@ As of June 20, 2025, we have finised a [Graph Retriever prototype](graph_retriev
 
 ### Agentic Retriever
 
-Agentic RAG uses an AI agent as the retriever, which is capable of breaking down prompts and calling tools. This is a truly powerful retriever that can combine multiple sources (document search, calculation tools, translators, etc.) to provide a detailed context. To achieve this, the agent should be able to generate a tract of actions and make corresponding tool calls, making Chain-of-Thought (CoT) or CoT-like models suitable for this task. Below is an ideal use case of Agentic RAG: 
+Agentic RAG uses an AI agent as the retriever, which is capable of breaking down prompts and calling tools. This is a truly powerful retriever that can combine multiple sources (document search, calculation tools, translators, etc.) to provide a detailed context. To achieve this, the agent should be able to generate a tract of actions and make corresponding tool calls, making Chain-of-Thought (CoT) or CoT-like models suitable for this task. Below is an ideal use case of Agentic Retriever: 
 
-[figure here]
+![Use Case for Agentic Retriever](media/agent_use_case.png)
 
 Notably, document search should still be a subfunction of the Agentic Retriever, meaning that the Agentic RAG should include Graph Retriever and/or Naive Retriever as a subfunction. 
 
