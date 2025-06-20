@@ -5,9 +5,9 @@ In recent years, large language models (LLMs) has garnered much attention in the
 In this project, we aim to create a domain-specific language model for supply chain management. We will use Retrieval-Augmented Generation to enable multi-task and multi-hop reasoning, 
 
 ## Retrieval-Augmented Generation
-Retrieval-Augmented Generation (RAG) augments the text generation of language models by retrieving the most relevant piece of information from a database as context. This is done without changing the underlying model, i.e., fine-tuning. There are three main advantage to RAG:
+Retrieval-Augmented Generation (RAG) augments the text generation of language models by retrieving the most relevant piece of information from a database as context. This is done without changing the underlying text generation model, i.e., fine-tuning. There are three main advantages to RAG:
 
-1. **Update Cost**: Fine-tuning is a computationally heavy task. It would be very time- and money-consuming to incorporate every piece of new information via fine-tuning. In contrast, RAG allows new information to be easily updated into the database while preserving the original model. 
+1. **Information Update Cost**: Fine-tuning is a computationally heavy task. It would be very time- and money-consuming to incorporate every piece of new information via fine-tuning. In contrast, RAG allows new information to be easily updated into the database while preserving the original model. 
 2. **Privacy**: RAG allow users to store and retrieve their own private knowledge base (e.g., internal documents, manuals, or reports) without sending the full content to external models. Therefore, users can keep sensitive data local and reduce their exposure. 
 3. **Traceability**: An RAG with proper pipelining can produce identifiers of the retrieved context. As a result, the user can audit the exact retrieved information that was fed into the language model to produce an answer.
 
@@ -66,11 +66,11 @@ Distillation is the process of producing a smaller language model, often called 
 Notably, distillation can happen before or after fine-tuning, with each option having their own advantage. 
 
 - **Distilling a Fine-Tuned Model**
-  * **Full Fine-Tuned Teacher Model:** By fine-tuning before distillation, we can have a full domain-specific LLM, which would not exist in the other option. 
-  * **Better Performance Potential of Students:** Since we can have a complete LLM suitable for our needs, so we know our small models are trained by a language models that reliably cater to our specific needs. 
+  * **Full Fine-Tuned Teacher Model:** By fine-tuning before distillation, we can have both a powerful domain-specific LLM serving as the teacher and also lightweight distilled models for easy deployment, whereas the other option only produces small models. 
+  * **Better Performance Potential of Students:** Since we can have a complete LLM suitable for our needs, we know our small models are trained by a language models that is both reliable and relevant. 
 - **Fine-tuning a distilled model**
-  * **Cheaper fine tuning:** As mentioned previously, fine-tuning is computationally demanding, and a distilled model with fewer parameters can be more cost effective both in terms of time and money. 
-  * **Available pre-distilled model:** There are many openly available distilled models such as the [Llama series](https://www.llama.com) by Meta and the [Qwen series](https://qwenlm.github.io) by Alibaba.
+  * **Cheaper fine tuning:** As mentioned previously, fine-tuning is computationally demanding, and fine-tuning a distilled model with fewer parameters can be less costly both in terms of time and money. 
+  * **Available pre-distilled model:** Many distilled models already exist and are openly available, such as the [Llama series](https://www.llama.com) by Meta and the [Qwen series](https://qwenlm.github.io) by Alibaba.
  
 ## Summary of Progress
 
